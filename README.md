@@ -1,7 +1,6 @@
 # Matriks-5-5
 Tugas pertemuan 6:
-Membuat Matriks Ordo 5 x 5]
-
+Membuat Matriks Ordo 5 x 5
 ### Matrix A
 ```
 [1, 2, 3, 4, 5]
